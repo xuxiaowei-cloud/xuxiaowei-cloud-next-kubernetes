@@ -23,7 +23,7 @@
 <p></p>
 
 <div align="center" style="text-align: center;">
-  基于 JDK 8/11、Spring Boot 2.7.x、OAuth 2.1、Vite 4、Vue 3、Element Plus 的 kubernetes 微服务
+  基于 JDK 17、Spring Boot 3.x.x、OAuth 2.1、Vite 4、Vue 3、Element Plus 的 kubernetes 微服务
 </div>
 
 <p></p>
@@ -101,23 +101,23 @@
   </a>
 
   <a target="_blank" href="https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next-kubernetes/blob/main/pom.xml">
-    <img alt="Spring Boot" src="https://img.shields.io/static/v1?logo=Spring Boot&message=2.7.8&color=blue">
+    <img alt="Spring Boot" src="https://img.shields.io/static/v1?logo=Spring Boot&message=3.0.2&color=blue">
   </a>
 
   <a target="_blank" href="https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next-kubernetes/blob/main/pom.xml">
-    <img alt="Spring Cloud" src="https://img.shields.io/static/v1?label=Spring Cloud&message=2021.0.5&color=blue">
+    <img alt="Spring Cloud" src="https://img.shields.io/static/v1?label=Spring Cloud&message=2022.0.1&color=blue">
   </a>
 
   <a target="_blank" href="https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next-kubernetes/blob/main/pom.xml">
-    <img alt="Alibaba Cloud" src="https://img.shields.io/static/v1?logo=Alibaba Cloud&message=2.2.9.RELEASE&color=blue">
+    <img alt="Alibaba Cloud" src="https://img.shields.io/static/v1?logo=Alibaba Cloud&message=2022.0.0.0-RC1&color=blue">
   </a>
 
   <a target="_blank" href="https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next-kubernetes/blob/main/pom.xml">
-    <img alt="OAuth 2.1" src="https://img.shields.io/static/v1?label=OAuth 2.1&message=0.4.0&color=blue">
+    <img alt="OAuth 2.1" src="https://img.shields.io/static/v1?label=OAuth 2.1&message=1.0.1&color=blue">
   </a>
 
-  <a target="_blank" href="https://github.com/alibaba/dragonwell8/releases/tag/dragonwell-standard-8.14.15_jdk8u362-ga">
-    <img alt="JDK" src="https://img.shields.io/badge/JDK-1.8.0_362-blue.svg"/>
+  <a target="_blank" href="https://github.com/alibaba/dragonwell17/releases/tag/dragonwell-17.0.3.0.3%2B7_jdk-17.0.3-ga">
+    <img alt="JDK" src="https://img.shields.io/badge/JDK-17.0.3-blue.svg"/>
   </a>
 
   <a target="_blank" href="https://github.com/xuxiaowei-cloud/xuxiaowei-cloud-next-kubernetes/blob/main/pom.xml">
